@@ -8,6 +8,7 @@
 - <a href="./POTDS/MaximumDiamonds.java" target="_blank">Maximum Diamonds</a>
 - <a href="./POTDS/LongestRepeatingSubSequence.java" target="_blank">Longest Repeating SubSequence</a> `dp`
 - <a href="./POTDS/LongestPalindromeSubSequence.java" target="_blank">Longest Palindromic SubSequence</a> `dp`
+- <a href="./POTDS/BFSofGraph.java" target="_blank"> BFS of Graph </a> `BFS` `Graph`
 
 ### Codes to review
 
