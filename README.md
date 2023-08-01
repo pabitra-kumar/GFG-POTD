@@ -9,6 +9,7 @@
 - <a href="./POTDS/LongestRepeatingSubSequence.java" target="_blank">Longest Repeating SubSequence</a> `dp`
 - <a href="./POTDS/LongestPalindromeSubSequence.java" target="_blank">Longest Palindromic SubSequence</a> `dp`
 - <a href="./POTDS/BFSofGraph.java" target="_blank"> BFS of Graph </a> `BFS` `Graph`
+- <a href="./POTDS/DFSofGraph.java" target="_blank"> DFS of Graph </a> `DFS` `Graph`
 
 ### Codes to review
 
