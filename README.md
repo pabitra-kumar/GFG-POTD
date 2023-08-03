@@ -11,6 +11,7 @@
 - <a href="./POTDS/BFSofGraph.java" target="_blank"> BFS of Graph </a> `BFS` `Graph`
 - <a href="./POTDS/DFSofGraph.java" target="_blank"> DFS of Graph </a> `DFS` `Graph`
 - <a href="./POTDS/ShortestDistance.java" target="_blank"> Shortest Distance </a> `BFS`
+- <a href="./POTDS/ShortestPathInDirectedAcyclicGraph.java" target="_blank"> Shortest Path in Acyclic Directed Graph </a> `Graph`
 
 ### Codes to review
 
